@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Lat1{
+public class Lat123{
     public static void main(String[] args){
         Scanner sc23 = new Scanner(System.in);
 
